@@ -1,0 +1,7 @@
+C:\Users\arran\source\repos\Snail sort\Snail sort\obj\Debug\Snail sort.csproj.AssemblyReference.cache
+C:\Users\arran\source\repos\Snail sort\Snail sort\obj\Debug\Snail sort.csproj.CoreCompileInputs.cache
+C:\Users\arran\source\repos\Snail sort\Snail sort\bin\Debug\Snail sort.exe.config
+C:\Users\arran\source\repos\Snail sort\Snail sort\bin\Debug\Snail sort.exe
+C:\Users\arran\source\repos\Snail sort\Snail sort\bin\Debug\Snail sort.pdb
+C:\Users\arran\source\repos\Snail sort\Snail sort\obj\Debug\Snail sort.exe
+C:\Users\arran\source\repos\Snail sort\Snail sort\obj\Debug\Snail sort.pdb
