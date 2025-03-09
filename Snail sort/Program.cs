@@ -63,13 +63,6 @@ namespace Snail_sort
                 length = ints.Length;
             }
             if (length == 1) { result.Add(ints[0, 0]); }
-            else
-            {
-                foreach (int i in ints)
-                {
-                    result.Add(i);
-                }
-            }
             PrintList(result);
 
             Console.ReadKey();
